@@ -1,7 +1,7 @@
 package query
 
 import (
-	"github.com/pelletier/go-toml"
+	"github.com/pepelazz/go-toml"
 	"testing"
 )
 

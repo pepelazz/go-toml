@@ -8,8 +8,6 @@ import (
 	"time"
 
 	burntsushi "github.com/BurntSushi/toml"
-	"github.com/pelletier/go-toml"
-	"gopkg.in/yaml.v2"
 )
 
 type benchmarkDoc struct {

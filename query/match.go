@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/pelletier/go-toml"
+	"github.com/pepelazz/go-toml"
 )
 
 // base match

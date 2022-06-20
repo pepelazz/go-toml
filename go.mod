@@ -1,3 +1,3 @@
-module github.com/pelletier/go-toml
+module github.com/pepelazz/go-toml
 
-go 1.12
+go 1.16
